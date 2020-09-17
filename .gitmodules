@@ -1,0 +1,9 @@
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/spacechain/opensource_hardware.git
+[submodule "software"]
+	path = software
+	url = https://github.com/spacechain/opensource_software.git
+[submodule "server"]
+	path = server
+	url = https://github.com/spacechain/opensource_server.git
