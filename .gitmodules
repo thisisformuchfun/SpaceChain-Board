@@ -7,3 +7,9 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/spacechain/opensource_server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/spacechain/opensource_client.git
+[submodule "otp_app"]
+	path = otp_app
+	url = https://github.com/spacechain/opensource_otp_app.git
